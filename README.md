@@ -13,6 +13,7 @@ Create good Tetris game in Python.
 
 - OpenAI (gpt-4o, gpt-o1, gpt-o3-mini, gpt-o3-mini-high) https://chatgpt.com/
 - Claude.ai (3.5 Sonnet) https://claude.ai/new
+- Claude.ai (3.7 Sonnet Extended Thinking) https://claude.ai/new
 - Chat.deepseek.com https://chat.deepseek.com/
 - Hailuo.ai https://www.hailuo.ai/
 - Github.com/copilot https://github.com/copilot
@@ -20,6 +21,7 @@ Create good Tetris game in Python.
 - X.com/i/grok https://x.com/i/grok
 - Hugging Face (Qwen2.5-Coder-32B-Instruct) https://huggingface.co/chat/
 - Qwen2.5-Max https://chat.qwenlm.ai/
+- Gemini 2.5 https://gemini.google.com/app
 
 
 ## What do you think which AI tool is the best for creating good Tetris game in Python?
